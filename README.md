@@ -1,4 +1,4 @@
-# Govind Jairam Rathod - Portfolio Website
+# Govind  Rathod - Portfolio Website
 
 ## Introduction
 
